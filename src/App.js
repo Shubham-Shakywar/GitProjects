@@ -4,7 +4,7 @@ import React from 'react'
 const App = () => {
   return (
     <View>
-      <Text>Meetanshi Satpute.</Text>
+      <Text>GitProjects</Text>
     </View>
   )
 }
