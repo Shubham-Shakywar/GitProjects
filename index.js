@@ -4,6 +4,7 @@
 
 import {AppRegistry} from 'react-native';
 import {name as appName} from './app.json';
-import App from './src_allnavigation/App';
+
+import App from './redux_structure/app'
 
 AppRegistry.registerComponent(appName, () => App);
